@@ -62,3 +62,12 @@ Since you are no longer depend on the bundled 32-bit Zulu JVM, you can now set y
 -XX:ParallelGCThreads=8
 -XX:ConcGCThreads=8
 ```
+
+## Contributing
+
+Feel free to open issues or submit pull requests if you have any improvements or fixes.
+This project is open to contributions for other platforms like Windows and MacOS.
+
+## Disclaimer
+
+This is not an official Interactive Brokers product, use at your own risk, make sure to read the scripts before running them.
