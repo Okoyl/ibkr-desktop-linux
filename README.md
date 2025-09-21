@@ -1,4 +1,4 @@
-# Getting IBKR Desktop
+# Getting IBKR Desktop Stable
 
 This projects aims to find a way to run the IBKR desktop app in a stable manner, this project aims fixing it on Linux, contributions for Windows and Mac are welcome.
 
