@@ -63,6 +63,10 @@ Since you are no longer depend on the bundled 32-bit Zulu JVM, you can now set y
 -XX:ConcGCThreads=8
 ```
 
+## Troubleshooting
+
+Please refer to the [Troubleshooting Guide](./Troubleshooting.md) for common issues and their solutions.
+
 ## Contributing
 
 Feel free to open issues or submit pull requests if you have any improvements or fixes.
